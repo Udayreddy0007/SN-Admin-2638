@@ -1,0 +1,77 @@
+--> Date -30-9-26
+
+--> Intro - 
+
+    ADMIN & ITSM -- Intro Products& service  , business, AI agents
+    
+    --> PDI --> Data and data model ,UI , Tables fields/columns and records/rows -form configuration and list configuration
+       Users , Groups , Roles , ACLs , imports sets  / update sets , SLA  , UI policies , UI actions , Data poilics
+
+       -->ITSM - ITIL foundation , CMDB,CSDM
+        -Incident
+        -Problem
+        -Change
+        -Knowledge base
+        -Service Catalog
+        -Order guides
+        -Record producer
+        -Workflow studio / flow designer
+   
+    -->SN scripting / development /customization - HTML , CSS, JS
+
+    --> introduction
+    --> Client side and server side
+    --Client scripts -- onLOad , onChange, onSubmit , onCelledit , Glide methods
+    --Server side scripting - Glide APIs , Glidemethods DML opertions
+    --BR- Before , After , Display , Async
+    --Glide ajax , Script include -- dev integration
+    --NowAssit - Servicenow studio
+
+
+--> Date : 1-10-26
+
+--> Intro : 
+  -- It came to the world in 2004 -- First Product is ITSM - Information technology service management
+   --> Service is a no1. Ai cloud based entireprise business platform -
+      centralized platform for managing multiple business processes
+      --> Paas - platform as a service -it self it's a platform  And Saas - software as a service --product  
+
+      -->servicenow.com
+
+
+---->Date  : 5/10/26 
+
+  ---> ServiceNow PDI creation  -  requesting a pdi - personal development instance
+
+  Search  in the chrome using the below link
+
+     --> ServiceNow developer / https://developer.servicenow.com/dev.do
+
+     --->UI -- Banner frame  , filter navigator and content frame .
+
+---> Date : 6/10/26
+
+  --> Data Foundation  --- 
+         
+         A piece of info we call it as Data
+
+         ex : name , city , address , phnno
+
+         --> Data is stored in the form of tablesSn -- fields(column) / Records(row) 
+
+            -->Label name - name which we can see on the form
+               ex : name: 
+            --->FieldName -- name which  is stored inside the DB(Database)
+
+      ---> Types of tables  -- 3 types 
+
+        1.Base Table  / Parent table / extend table - Task
+        2.Child table /Extending table / OOB tables  - out of box tables -- inc , prb , cmdb_ci , chg ,kb, sys_user
+        3.Custom table - user created table - u_customtablename
+
+
+        list ui -- hamburger menu , Breadcrumbs , gear icon - personalisation , list choices , 
+                       list context menu
+        form ui -- hamburger Menu , form context ,  form builder , form layout , form design , related links 
+        ---> Table creation is done -- 9/10/26
+
