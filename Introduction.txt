@@ -75,3 +75,14 @@
         form ui -- hamburger Menu , form context ,  form builder , form layout , form design , related links 
         ---> Table creation is done -- 9/10/26
 
+---> Date : 12 / 10 / 26
+
+         
+         Users table (sys_users) --- This table consists of users records  each holds user Information
+
+
+          ----> Navigate to  user administration > users , groups , roles  / System security > Users
+
+
+   
+
