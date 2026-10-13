@@ -84,5 +84,19 @@
           ----> Navigate to  user administration > users , groups , roles  / System security > Users
 
 
+         --> Date : 13/10/26
+
+           --- Roles :  role is a name which is given to a user but the roles doesnt defines he/she 
+                         designation
+
+                     -- A user may have multiple role with that role he/she can access the application & modules
+                     -- but the permission to enter into that particular application we need access
+                         that access is given security admin (ACLs)
+
+                     -- A role may contains sub roles 
+                     -- We can create a application with role  and module with role
+
+-- CRUD /CRED -- Acls - read , create , write , delete
+
    
 
