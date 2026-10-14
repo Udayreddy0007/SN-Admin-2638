@@ -98,5 +98,15 @@
 
 -- CRUD /CRED -- Acls - read , create , write , delete
 
+
+---> Date : 14/10/26
+
+   ---> Access Controls list (ACLs):  Giving the access to a user with specific role
+     
+     to create acls we need to navigate system security > Access Controls (ACLs)
+        
+        -- Table level ACLs
+
+        -- Field level ACLs
    
 
