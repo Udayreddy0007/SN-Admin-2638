@@ -105,8 +105,23 @@
      
      to create acls we need to navigate system security > Access Controls (ACLs)
         
-        -- Table level ACLs
+        -- Table level ACLs : Giving access to a user for creating the record , updating the records
+                              and deleting the Records
+                              we can see the fields 
 
-        -- Field level ACLs
+        -- Field level ACLs : Given access to the user for a particular field on the table 
+                               based up on the requirement
+
+      
+       Note : Without giving table lvl access we cannot access the field  / create the field lvl acls
+
+
+
+
+
+   ---> Import sets :  import / getting the data from the excels sheets or some other sources
+
+       -- from the table - we can import the data into the table 
+       -- navigate to import sets  > load data 
    
 
