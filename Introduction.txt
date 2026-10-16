@@ -123,5 +123,17 @@
 
        -- from the table - we can import the data into the table 
        -- navigate to import sets  > load data 
+
+
+
+ ---> DATE : 16/10/26
+
+  ---> Import sets : 
+        
+        ---> Navigate to the system imports > load data
+
+        ---> import sets done complete the  assignment   
+       
+      
    
 
