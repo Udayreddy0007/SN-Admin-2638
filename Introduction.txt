@@ -143,3 +143,17 @@
         --> Merge sets 
         --> update source
 
+
+----> Date : 23/10/26
+
+  ----> uploading the xml file to retrive the update sets 
+   
+  ----> Application scope / Scoped application : 
+    
+       ---> Changes been made on the application only reflected to the users whoever is a part that application
+            changing the thing from locally is restricted
+
+
+
+            
+
