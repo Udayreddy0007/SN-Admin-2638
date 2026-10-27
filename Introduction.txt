@@ -155,5 +155,27 @@
 
 
 
+    ---> Date (26/10/26) -- UI policies (ui lvl - form lvl policy actions)
+      
+          
+    ---> Date (27/10/26) -- Data Policies 
+
+        --> Data policy :  To check the data we will be writing few data  policy rule that  restrict user from updating
+                                data (from list lvl) 
+                          
+                          --we cannot by pass the data policy
+                          -- we can by pass ui policy
+
+        
+        ---> UI Action :  performing some action when clicking  the button
+
+
+        ---> Data lookup rules  , priority lookup rules
+
+
+
+
+
+
             
 
