@@ -173,6 +173,15 @@
         ---> Data lookup rules  , priority lookup rules
 
 
+---> Date : 28/10/26 
+ 
+     --> SLA : it is a time based contract / commitment between the service provider and end user (consumers)
+         
+           Service Level Agreement(Organisation and  End Users)
+
+        
+
+
 
 
 
