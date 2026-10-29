@@ -180,6 +180,43 @@
            Service Level Agreement(Organisation and  End Users)
 
         
+        ---> OLA :(Operational level aggrement)  -- it's a commitment between the organisation and the internal teams
+               
+
+               ex : 
+                    When a user raised laptop  related incident 
+                          
+                          Organisation-SLA (4hr-for solution)
+                                  |
+                            assign it to hardware
+                                   |
+                                OLA - 2hr(for hardware replacement)
+                                    |
+                                hardware replacement is done
+
+                            
+        ---> Underpinning contract : it's a commitment between the service provider  , internal teams and the outside vendor (who is
+                                         responsible for services-software, hardware , database , servers)
+
+
+                  ex :
+                               When a user raised laptop  related incident 
+                          
+                          Organisation-SLA (4hr-for solution)
+                                  |
+                            assign it to hardware
+                                   |
+                                OLA - 2hr(for hardware replacement)
+                                    |
+                             outside  Vendor will provide a replacement 
+                                    | 
+                                hardware replacement is done
+                                    |
+                                  Resolution provided  
+                                       
+
+                          
+
 
 
 
