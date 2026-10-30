@@ -212,7 +212,89 @@
                                     | 
                                 hardware replacement is done
                                     |
-                                  Resolution provided  
+                                  Resolution provided
+
+
+
+---> Date  : 30/10/26 
+
+        ----> ITIL -- Information technology infrastructure library 
+
+           ---> ITIL is a framework  of bestpractices which helps IT Organisation to structure  and manage their services and to delivery
+
+                 best services to make consumers happy
+
+
+                      EX: 
+                             Employee raise a incident 
+                                   |
+                               IT Teams take care of that incident
+                                   |
+                                 Incident is resolved 
+
+
+
+        ---- Student portal analogy : 
+          
+             students opens this portal track there attendance , marks 
+               
+            IT teams -  Student Application service  -- taking care of this web application 
+              
+                ---> Students cannot able to fetch their results  -- INC 
+
+              IT --> Invistigation on finding the solution 
+                
+                web portal  
+                    | 
+                 Network 
+                    |
+                  Server 
+                     |
+                  Database
+                      |
+                    Cloud
+
+
+        
+        ----> CMDB(Configuration management Database) :  It is inventory of IT components (CI's) and their relationships among the components stored in table inside
+                       the service now we call that table cmdb_ci.list 
+
+                CI- Configuartion items which stores information about a componets 
+                  
+                  Name , manufacture , IP Addresses ,  Company  , CPU -- storage
+
+                CI Classes - Applications - ServiceNow  , SAP, Saleforce , Zoho  , Servers , Hardwares , Softwares- Linux , Windows ,OS 
+                  
+                        
+
+     ex  : 
+          
+               IT teams - opening the database (CMDB)
+                   |
+                Application class
+                    |
+                Student portal Application 
+                     |
+                relationships --- ci, ci classes
+
+
+
+
+
+        ---> CSDM - Common service Data Model - It gives a service Data model to organise the Service components inside the CSDM  
+            
+            
+            Ex : Students - Student portal 
+                Three teams  
+                 
+                 IT teams -  Student Application 
+                 Service Desk - Student Management Application
+                 DB team - Student Data management Application 
+
+                 All three different names are reffering to the same service but different parts 
+                 to eliminate this confusion  ServiceNow itself using a Data Model to organise their service and Components 
+                 data model call it as CSDM
+                
                                        
 
                           
