@@ -295,9 +295,62 @@
                  to eliminate this confusion  ServiceNow itself using a Data Model to organise their service and Components 
                  data model call it as CSDM
                 
-                                       
 
-                          
+
+
+-----> Date : 02/11/26 
+
+
+
+    ---> CI Realtionship :   creating the realtion btw the items inside the organisation
+
+
+               L1  ,  L2 , L3
+
+
+               L1 -- Application 
+
+               L2 --  on which  Server the application is running 
+
+               L3 -- infrastructure                              
+
+
+ -----> ITSM :  
+
+      1. Incident - Life Cycle  :
+         
+          If any disurption in an IT services  We call it as incident   
+             
+              that issue is resloved by a particular team depends up on the category , priority
+                 
+                 and also based up on the issue  
+             
+
+             ex : 
+
+                     Caller is uday (using a network and NetWork name is ACT) 
+                             |
+                        ACT Company is providing the network services 
+                             |
+                        Uday is facing connectivity issues since from 3 days 
+                             | 
+                        Raise a compliant agent  (within 1hr their support team contact uday) -- troubleshoot steps
+                         (Looking at a document )
+
+                             | 
+                        Documenting the solutions and the trouble shoot steps(Knowledge base - articles)
+           
+      2. Problem 
+      3. Change Request 
+      4. Knowledge Base 
+
+      5. Service Catalog 
+      6. Order guide 
+      7. Record Producer 
+ 
+  -----> Flows / Workflow (Low code Platform)
+
+
 
 
 
