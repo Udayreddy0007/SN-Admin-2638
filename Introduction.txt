@@ -340,6 +340,9 @@
                              | 
                         Documenting the solutions and the trouble shoot steps(Knowledge base - articles)
            
+          
+
+
       2. Problem 
       3. Change Request 
       4. Knowledge Base 
@@ -349,6 +352,83 @@
       7. Record Producer 
  
   -----> Flows / Workflow (Low code Platform)
+
+
+
+
+
+
+  ------> Date : 03/11/26
+
+    
+      Lifycycle of Incident : 
+       
+
+       Ex :  There is an employee not able to use his outlook   - Raise a Incident
+       
+
+      1 .  New  - The incident has been created here and  Haven't started Invistigation and Assigned yet
+        
+         ex : Incident is created with the details provided by the user and A number is generated 
+
+
+      2 . In Progress - The Invistigation has Started and asssigned to a person who is going to fix the disurption
+                        of the IT Service
+
+        ex :  Now a Technian Start configuring the OutLook Accout and checking the connectivity
+          
+          --- From SN POV
+            -- Invistigation Started 
+            -- Check the issue since the incident is assigned to ServiceDesk group 
+            -- One of the member (Technian) Start fixing the issue
+
+
+      3 . On Hold - The Invistigation has paused Temporarly why cuz some required information dependency is nedded
+
+        ex : Technian Temporarly stop Invistigation since he need some approvals / info about the issue from caller
+
+        --- From SN POV
+
+         -- Awaiting caller 
+         -- Awaiting  Problem
+         -- Awaiting  for Change  
+
+
+      4 . Resolved - The Technian provides a solution to fix the disurption or Resolution
+
+       ex :  Technian configuration the outlook account also fixed his connectivity
+
+       ---- From SN POV
+        
+        -- Resolution code - How Incident  was Resolved
+        -- Resolution notes - Solution how it is Resolved
+        -- Resolved By- Who resolved the issue (Technian)
+        -- Resolved On - Date and time of Resolution
+
+
+     5 . Closed  - Technian will provide closure notes if  the incident completed the Resolution
+      
+      ex :  Technian  provide the closure information 
+       
+       From the SN POV - 
+         Close Notes - How it is Closed
+
+       
+      6 .  Canceled  Technian cancel the incident since that incident has been resolved
+
+       ex : By mistake the employee raised  duplicate incident . So  he raise a cancel request to cancel the Incident
+         if there is no further use of that incident 
+
+
+
+-------> INCIDENT FORM - Which store the details of the caller , assignment and the resolution of incident 
+
+     The incident form fields are divided into different sections 
+
+
+     ---> Number and Identifaction details 
+
+       --  
 
 
 
