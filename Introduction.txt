@@ -428,9 +428,66 @@
 
      ---> Number and Identifaction details 
 
-       --  
+       -- Number :   A number is generated when a record is created
+       
+       -- Caller : The affected person (Uday)
+       
+       -- Opened By : ITIL admin created the incident 
+      
+       -- Opened :   Date and time of the record creation
+
+     
+     ---- Classification details 
+        
+
+        -- category : Parent classification    
+           
+           ex :   An employee is unable to access his outlook account 
+              
+             -->  Category is inquiry/help  --- configuration tool
+
+        -- subcategory :  Child classification . 
+         
+            ex :     email issue 
+              
+              --->  Subcategory is email
+         
+        -- services : The services which is impacted 
+           
+              ---> email server / service impact
+          
+        -- serviceofferieng  : The services that offered by the business Organisation
+
+        -- CI :  Which It component IS affected   
+            
+             ex : email server is affected
 
 
+      
+      ------> Date : 5/11/26
+
+
+      ----> Major Incident : 
+        
+          
+
+
+
+          ex  :  
+
+    Reliance
+      |      
+    A Business -- providing a service -- Internet Service , Emails service ---2000 employees are working(NuvaTechnologies)
+                   
+                       |  
+                        
+          There is a disurption in their Internet Service(due to some Gateways , firewalls)
+                       |  
+                since there are 1000 users  using internet service(Impact is on this 1000)
+                       |  
+                    Raise  a incident (Major) -- P1 , P2 ---1000 child incident
+                      | 
+                    Resolved as soon as possible 
 
 
 
