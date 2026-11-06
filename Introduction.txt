@@ -490,9 +490,52 @@
                     Resolved as soon as possible 
 
 
+      
+   ----> Date  :   6/11/26 
+    
+      
+          ---> Problem management :  Finding the underlying cause of the incidents   andd provinding the Workaround
+                                      also doing the root cause analysis 
 
 
+             ex :   Students are using Student portal to track there attendance , marks , report 
 
+             Monday : The student cannot able to login  to the portal 
+                         (IT component the service is Unavailable)(1)
+
+            Tuesday : Same issue (2)
+
+            Wed : Same isssue(3)
+
+
+              IT --- Want to invisitigate the underlying cause of the disruption 
+               
+               ---> Problem management -- Workaround , Root cause analysis , Known Erorr , Outage (How along it is effected )
+
+
+           Life Cycle 
+
+
+           1. New Stage :  New record is created and associated with incidents  
+
+           2. Asses :  Assigning to someone and revieve the impact and urgency of associated incidents  
+
+           3 . Root cause Analysis : using some pattern  , configuring   , understood the cause later he 'll
+
+              provide the solution 
+
+           4 . Fix in progress : Wait for the change to be implemented 
+
+           5 . Resolved :  workaround is provided  
+
+           6 . Closed : The problem got the resolution 
+
+
+-------------> Problem and change management table are not coming with the offical support in 
+                 Australia  and Brazil version they moved them to workspace
+
+  --------------> Problem.list  type in the filter navigator takes you to the problem records list page 
+                   Problem.do  type in the filter navigator takes you to the new problem record form page
 
 
             
