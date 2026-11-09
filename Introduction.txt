@@ -494,7 +494,7 @@
    ----> Date  :   6/11/26 
     
       
-          ---> Problem management :  Finding the underlying cause of the incidents   andd provinding the Workaround
+          ---> Problem management :  Finding the underlying cause of the incidents   andd providing the Workaround
                                       also doing the root cause analysis 
 
 
@@ -538,5 +538,54 @@
                    Problem.do  type in the filter navigator takes you to the new problem record form page
 
 
+-----> Date : 9/11/26
             
+   -----> Change Management : Planning , Implementing and reviewing the change that should be applied  
+             to a  cause to fix the IT Service  (Change Request)
 
+
+             ex :   
+                    Student Portal --- students use this portal to check their Marks and attendance 
+                        | 
+                      Incident -- to provide a fix as quick as possible 
+                         | 
+                      Problem -- to find the root(cause is understood  to fix that problem we need a change)
+                        (DB pool size the traffic is high----)
+                        |
+                      Change(They  configure the pool size  to reduce the traffic and provide a permanent fix)
+                      
+
+-----> Life Cycle Of Change management  
+ 
+            Asses  --  Assign it to a team (group)
+              | 
+            Authorize --- We need approvals 
+              |
+            Implement  --- Steps  to implement the change 
+              | 
+            Schedule --- when to implement and when to end 
+              | 
+            Review  --- we need  to check the  things again
+              | 
+            Release  --- implementing here / change is done
+
+
+----> There are 3 types of changes  
+  
+  
+  1. Standard change : pre-Authorize following the documented procedure
+     
+     ex : Student Portal - network related issue
+
+  
+  2. Normal change : We need  assessment and  Authorize  
+     
+     ex :   Student Potal -- DB pool
+
+  
+  3. Emergency Change : We need to implement the change as soon  as possible 
+       
+       ex :  Service Down ---Impact on Entire IT Service
+
+      
+---> Type this command in your instace filter navigator change_request.list
