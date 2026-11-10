@@ -589,3 +589,21 @@
 
       
 ---> Type this command in your instace filter navigator change_request.list
+
+
+
+
+---> Date : 10/11/26
+
+-----> Knowledge management : 
+
+    
+     ---> Ex : 
+        
+            Student portal --- 10 students are facing issue while accessing portal 
+              (Accounts)
+
+
+-----> Creating a base and category 
+     
+      --- we create some articles then we will publish 
