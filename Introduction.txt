@@ -607,3 +607,36 @@
 -----> Creating a base and category 
      
       --- we create some articles then we will publish 
+
+
+-----> Date : 13/11/26
+
+
+-----> Service Catalog :  Allowing the employees or end user to request services , products and resources of 
+                          business by a portal 
+
+            
+       Service Catalog : Centralized platform where users can request different things offered by an organization
+     
+
+  --- There are 3 important components they are : 
+
+    1 . catalog :  A collection services offerings avaiable to users 
+
+        ex : IT Catalog , HR Catalog  , New Employee Catalog
+
+
+    2 . Category : Category helps the organize catalog items  
+            
+        ex :  Hardware , Software 
+
+    
+   3 . Catalog item :  Aspecific  service  or a product that a specific user can request 
+     
+
+      ex : Laptop request , MS Suite request 
+
+  
+   ---> Variables :   collects the information from the users when they submit the request  
+     
+        ex :    Laptop type  , employee name 
