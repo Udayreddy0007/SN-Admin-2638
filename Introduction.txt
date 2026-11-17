@@ -649,4 +649,21 @@
 
     -------> NEW Employee Service 
       
-        ---> Assets -- Laptop , mobile
+        ---> Assets -- Laptop , mobile  
+
+
+    
+-----> Date : 17/11/26  
+
+
+  ----> Record Producer : Type of catalog item which allow the end user to  raise a record  from the portal 
+                          without opening table 
+
+
+                ----> IT Service Support  -- from the catalog he/she can raise the incident 
+
+            
+                       
+                      
+                 
+
