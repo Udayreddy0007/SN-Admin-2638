@@ -663,7 +663,34 @@
                 ----> IT Service Support  -- from the catalog he/she can raise the incident 
 
             
-                       
+
+
+  ------> Date : 18/11/26
+
+
+   -----> Workflow studio / Flow designer : Automating the repetative task for the business owner  , process owner 
+
+               
+               ---> Flow : When should happen(Tiggers) , what should happen (Action ) 
+                  
+              
+              ---> Performing , automating a task based upon defined steps 
+
+
+        ----> It  provides drag & drop feature is enabled 
+
+
+
+
+    ex :   5 P1 incident were raised -- ITIL Admin need to resolve as sooner as possible
+             |
+           underlying cause -- finding the root cause --- create problem 
+
+
+
+
+
+                           
                       
                  
 
