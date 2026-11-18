@@ -684,7 +684,7 @@
 
     ex :   5 P1 incident were raised -- ITIL Admin need to resolve as sooner as possible
              |
-           underlying cause -- finding the root cause --- create problem 
+           underlying cause -- finding the root cause --- create problem
 
 
 
